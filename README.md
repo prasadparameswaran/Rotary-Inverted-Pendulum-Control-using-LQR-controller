@@ -11,4 +11,9 @@ K2, K3 and K4) by tuning the Q matrix.
 invertedPendulum.ino : arduino code for controlling the pendulum. It makes use of gain values from lqr.m
 
 
+# Demo
+
+![](https://github.com/prasadparameswaran/Rotary-Inverted-Pendulum-Control-using-LQR-controller/blob/main/demo.gif)
+
+
 
